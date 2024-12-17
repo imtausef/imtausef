@@ -29,3 +29,11 @@ Additional Services:
 Website migrations
 Troubleshooting and bug fixes
 Ongoing maintenance and updates
+
+Services I Offer:
+WordPress Landing Pages: Custom-designed pages optimized for engagement and conversions.
+WordPress Issue Fixing: Troubleshooting and resolving bugs, compatibility issues, and site errors.
+WordPress Customization: Tailoring themes and plugins to meet your specific requirements.
+E-commerce Sites: Creating feature-rich, user-friendly WooCommerce stores with payment integration.
+Payment Gateway Integration: Seamlessly integrating secure payment solutions into your website.
+Mobile/Tablet Optimization: Ensuring your site is fully responsive and performs flawlessly on all devices.
